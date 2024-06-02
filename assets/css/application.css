@@ -1,0 +1,18 @@
+body{
+    background-color: #f7f7f7;
+
+}
+#box{
+    box-shadow: 1px 1px 5px gray;
+    background-color: #ffff;
+    /* border: 1px solid gray; */
+}
+
+.span{
+    color: rgb(45, 173, 242);
+}
+
+#img{
+    height: 50px;
+    width: 50px;
+}
